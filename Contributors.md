@@ -5,3 +5,4 @@
 - [Kubatbek muratali uulu](https://github.com/KubatbekM)
 - [Altynbek Kasymov](https://github.com/AltynbekKasymov)
 - [Bakyt Tynybekov](https://github.com/BakytTynybekov)
+- [Ainura Suerkulova](https://github.com/Ainura-prog)
