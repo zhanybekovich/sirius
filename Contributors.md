@@ -7,3 +7,4 @@
 - [Bakyt Tynybekov](https://github.com/BakytTynybekov)
 - [Firdavs Nurpaizov](https://github.com/firdavsnurpaizov)  
 - [Ainura Suerkulova](https://github.com/Ainura-prog)
+- [Eradil Abasbekov] (https://github.com/Eradil)
