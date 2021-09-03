@@ -5,5 +5,6 @@
 - [Kubatbek muratali uulu](https://github.com/KubatbekM)
 - [Altynbek Kasymov](https://github.com/AltynbekKasymov)
 - [Bakyt Tynybekov](https://github.com/BakytTynybekov)
-- [Firdavs Nurpaizov](https://github.com/firdavsnurpaizov)  
+- [Firdavs Nurpaizov](https://github.com/firdavsnurpaizov)
 - [Ainura Suerkulova](https://github.com/Ainura-prog)
+- [Meerim Yrysbekova](https://github.com/meka-05)
