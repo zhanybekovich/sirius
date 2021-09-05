@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Neucha&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap");
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #79b4b7;
+  text-align: center;
+}
+
+.container {
+  width: 1110px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+h1 {
+  display: inline-block;
+  text-align: center;
+  padding: 20px 40px;
+  margin: 10px auto;
+  color: #fff;
+  font-family: "Ubuntu", sans-serif;
+  background-color: #00a19d;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(228, 227, 227);
+}
+
+ol {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 160px);
+  grid-gap: 50px;
+  justify-content: center;
+}
+
+ol li {
+  display: flex;
+  width: 150px;
+  height: 150px;
+  border: 1px solid rgb(34, 12, 230);
+  font-family: "Ubuntu", sans-serif;
+  border-radius: 10px;
+  background: url("./img/user.png");
+  background-position: center;
+  background-size: cover;
+  justify-content: center;
+  align-items: flex-end;
+  box-shadow: 0 0 10px rgba(100, 6, 224, 0.5);
+}
+
+li {
+  list-style: none;
+}
+
+li:hover {
+  box-shadow: 0 0 30px rgb(248, 247, 246);
+  border: 1px solid rgb(248, 247, 246);
+}
