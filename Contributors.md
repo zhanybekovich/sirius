@@ -10,3 +10,4 @@
 - [Zhenishgul Matkalykova](https://github.com/Zhenishgul85)
 - [Meerim Yrysbekova](https://github.com/meka-05)
 - [Eradil Abasbekov](https://github.com/Eradil)
+- [Ularbek Akylbek uulu](https://github.com/AlarbekAkylbekuulu)
